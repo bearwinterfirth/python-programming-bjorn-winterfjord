@@ -36,7 +36,7 @@ Mina bästa efterrätter kan jag inte rangordna:
 - Äpplekaka med vaniljsås
 - Äggost
 
-Om man klickar på denna [länk](www.aftonbladet.se) kommer man till Aftonbladets hemsida. Och här kommer en bild från Liseberg:
+Om man klickar på denna [länk](https://www.mit.edu) kommer man till MIT:s hemsida. Och här kommer en bild från Liseberg:
 
 ![Loke](/assets/images/liseberg.JPG)
 
